@@ -14,4 +14,4 @@ now, maybe we want to link to a wesite[Peter](www.)
 
 maybe we want to add a picture now???
 
-[tu](https://cdn.vox-cdn.com/thumbor/76ILEuGdKA6sNwban20OY1IqBRo=/0x0:1700x960/775x775/filters:focal(714x344:986x616):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/57514059/mario.0.jpg)
+![tu](https://cdn.vox-cdn.com/thumbor/76ILEuGdKA6sNwban20OY1IqBRo=/0x0:1700x960/775x775/filters:focal(714x344:986x616):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/57514059/mario.0.jpg)
