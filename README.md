@@ -11,3 +11,7 @@ maybe you want to quote someone
 >to be or no to be
 
 now, maybe we want to link to a wesite[Peter](www.)
+
+maybe we want to add a picture now???
+
+[tu](https://th.bing.com/th/id/R.46eb2c8ff49c1d1cde184a1d2ac73112?rik=ipf8cEASq2Us8Q&pid=ImgRaw&r=0)
